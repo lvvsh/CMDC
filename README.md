@@ -1,6 +1,6 @@
 # CMDC
 ## The Frame of MLCL
-![](https://github.com/lvvsh/MLCL/blob/main/Frame.png)
+![](https://github.com/lvvsh/CMDC/blob/main/image.png)
 
 # Usage
 ## Requirements
